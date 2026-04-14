@@ -1,0 +1,12 @@
+2026-04-14 15:53:33,069 - INFO - Metadata of maths for cores is provided successfully
+2026-04-14 15:53:33,072 - INFO - Metadata of maths for cores is provided successfully
+2026-04-14 15:53:40,295 - INFO - Metadata of maths for cores is provided successfully
+2026-04-14 15:53:40,331 - INFO - Metadata of maths for cores is provided successfully
+2026-04-14 15:55:42,477 - INFO - Metadata of maths for cores is provided successfully
+2026-04-14 15:55:42,495 - INFO - Metadata of maths for cores is provided successfully
+2026-04-14 15:55:50,284 - INFO - Metadata of maths for cores is provided successfully
+2026-04-14 15:55:50,291 - INFO - Getting top reviews
+2026-04-14 15:55:50,318 - INFO - Metadata of maths for cores is provided successfully
+2026-04-14 15:55:50,324 - INFO - Getting top reviews
+2026-04-14 15:55:50,513 - INFO - Top reviews: []
+2026-04-14 15:55:52,305 - INFO - Top reviews: []

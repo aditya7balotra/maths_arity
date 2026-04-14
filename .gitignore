@@ -12,3 +12,4 @@ data/
 assets_metadata/
 assets/
 .env.backend
+prac.py
