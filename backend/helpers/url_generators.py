@@ -38,5 +38,5 @@ def cloudinary_get_temp_url(public_id: str):
             resource_type="raw",
             expires_at=current_timestamp + CLOUDINARY_EXPIRY_TIME_SECONDS,
             timestamp=current_timestamp,
-            attachment = False
+            attachment = True
         )
