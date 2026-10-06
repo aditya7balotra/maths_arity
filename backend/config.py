@@ -24,7 +24,7 @@ class Deployment:
         if self.env not in ["dev", "prod"]:
             raise ValueError("deployment enviroment can be either dev (development) or prod (production)")
         self.dev_allow_origins = ["*"]
-        self.prod_allow_origins = ["https://xuzu.in", "https://www.xuzu.in"]
+        self.prod_allow_origins = ["https://mathvault.xuzu.in"]
 
         self.dev_allow_methods = ["*"]
         self.prod_allow_methods = ["GET", "POST"]
